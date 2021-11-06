@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  width: 1000px;
+  margin: 0px auto;
+}
+.full-website{
+  text-align: center;
+  color: white;
+  margin: 20px auto;
+  box-shadow: 3px 3px 5px rgba(0, 10,5, 4);
+}
+.manu{
+    background: #be2edd;
+}
+.conteinar{
+  background: #1dd1a1;
+}
+.footer{
+  background: #576574;
+}
+.footer-botom{
+  background: #222f3e;
+}
+.img{
+  max-width: 100%;
+}
+.op{
+  padding: 100px 0px;
+}
